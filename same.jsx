@@ -11,3 +11,5 @@ return b-a
 
 // console.log(add(4,5))
 // console.log(minus(4,5))
+
+console.log(6)
