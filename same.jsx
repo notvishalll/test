@@ -5,7 +5,7 @@ function add (a,b){
 
 // minus function
 function minus(a,b){
-return b-a
+	return b-a
 }
 
 
